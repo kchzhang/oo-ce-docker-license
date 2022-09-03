@@ -2,7 +2,7 @@
 
 #### 日志
 
-1. 支持 docker pull knoxzhang/oo-ce-docker-license:7.1.1.23
+1. docker pull knoxzhang/oo-ce-docker-license:7.1.1.23
 2. 支持arm64 docker pull knoxzhang/oo-ce-docker-license:7.1.1.23-arm64
 
 #### 仓库
