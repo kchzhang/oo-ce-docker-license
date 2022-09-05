@@ -8,7 +8,7 @@
 #### 仓库
 1. https://gitee.com/knoxZhang/onlyoffice-zh-cn
 2. https://github.com/kchzhang/oo-ce-docker-license
-3. https://hub.docker.com/repository/docker/knoxzhang/oo-ce-docker-license
+3. https://hub.docker.com/r/knoxzhang/oo-ce-docker-license
 
 #### 介绍
 1. OOffice 学习交流
